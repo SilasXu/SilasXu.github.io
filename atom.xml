@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Silas&#39; inn</title>
+  <icon>http://example.com/icon.png</icon>
+  <subtitle>汝之蜜糖，彼之砒霜。求同存异，不取苟同。</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-02-21T08:19:17.476Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Silas Xu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/02/21/hello-world/"/>
+    <id>http://example.com/2021/02/21/hello-world/</id>
+    <published>2021-02-21T08:19:17.446Z</published>
+    <updated>2021-02-21T08:19:17.476Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
